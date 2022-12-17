@@ -1,0 +1,16 @@
+﻿{
+  "Id": "tsfZQMauSkybnrwceXOemw",
+  "Reference": "7WSrcdPj6EyaQSBahdhvuQ/tsfZQMauSkybnrwceXOemw",
+  "ParentRef": "7WSrcdPj6EyaQSBahdhvuQ/oJtOEaI5NkeTWMF_7twTZA",
+  "Name": "Standard_Button 7",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-17T17:53:15.4446745Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-17T17:54:27.6500156Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

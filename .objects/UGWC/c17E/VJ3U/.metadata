@@ -1,0 +1,15 @@
+﻿{
+  "Id": "VJ3U1_f86kSii7skOmrXmA",
+  "Reference": "7WSrcdPj6EyaQSBahdhvuQ/VJ3U1_f86kSii7skOmrXmA",
+  "ParentRef": "7WSrcdPj6EyaQSBahdhvuQ/c17ESwfVdkeQSdmEggvdkw",
+  "Name": "scientific",
+  "Type": "Screen",
+  "Created": "2022-12-17T17:49:34.4321436Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-17T17:49:58.6400093Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

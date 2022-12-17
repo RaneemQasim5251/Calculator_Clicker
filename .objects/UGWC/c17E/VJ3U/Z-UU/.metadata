@@ -1,0 +1,16 @@
+﻿{
+  "Id": "Z-UUoVx0_0WrTxHir-lrmw",
+  "Reference": "7WSrcdPj6EyaQSBahdhvuQ/Z-UUoVx0_0WrTxHir-lrmw",
+  "ParentRef": "7WSrcdPj6EyaQSBahdhvuQ/VJ3U1_f86kSii7skOmrXmA",
+  "Name": "Scientific_Button 7",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-12-17T17:51:01.1835967Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-17T17:54:56.8112589Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
